@@ -1,0 +1,6 @@
+{
+  "name": "Trash Bin",
+  "exec": "PyApps/default/trashbin.py",
+  "icon": "trashbin.png",
+  "type": "system"
+}

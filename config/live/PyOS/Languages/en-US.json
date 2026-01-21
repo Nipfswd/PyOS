@@ -1,0 +1,42 @@
+{
+    "start_menu_file_explorer": "File Explorer",
+    "start_menu_trash_bin": "Trash Bin",
+    "start_menu_settings": "Settings",
+
+    "settings_general": "General",
+    "settings_personalization": "Personalization",
+    "settings_system": "System",
+
+    "settings_language": "Language",
+    "settings_theme": "Theme",
+    "settings_volume": "Volume",
+
+    "settings_animations": "Animations",
+    "settings_wallpaper": "Wallpaper",
+
+    "settings_theme_light": "Light",
+    "settings_theme_dark": "Dark",
+
+    "explorer_this_pc": "This PC",
+    "explorer_drives": "Drives",
+    "explorer_new_folder": "New Folder",
+    "explorer_open": "Open",
+    "explorer_delete": "Delete",
+    "explorer_rename": "Rename",
+    "explorer_copy": "Copy",
+    "explorer_cut": "Cut",
+    "explorer_paste": "Paste",
+    "explorer_empty": "Empty folder",
+    "explorer_loading": "Loading...",
+    "explorer_path": "Path",
+    "explorer_items": "items",
+    "settings_animations": "Animations",
+    "settings_animations_on": "On",
+    "settings_animations_off": "Off",
+    "notepad_new": "New",
+    "notepad_open": "Open",
+    "notepad_save": "Save",
+    "start_menu_notepad": "Notepad",
+    "notepad_saved": "Saved",
+    "notepad_unsaved": "Unsaved changes"
+}

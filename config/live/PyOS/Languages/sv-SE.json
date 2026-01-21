@@ -1,0 +1,42 @@
+{
+    "start_menu_file_explorer": "Utforskaren",
+    "start_menu_trash_bin": "Papperskorgen",
+    "start_menu_settings": "Inställningar",
+
+    "settings_general": "Allmänt",
+    "settings_personalization": "Anpassning",
+    "settings_system": "System",
+
+    "settings_language": "Språk",
+    "settings_theme": "Tema",
+    "settings_volume": "Volym",
+
+    "settings_animations": "Animationer",
+    "settings_wallpaper": "Bakgrund",
+
+    "settings_theme_light": "Ljust",
+    "settings_theme_dark": "Mörkt",
+
+    "explorer_this_pc": "Den här datorn",
+    "explorer_drives": "Enheter",
+    "explorer_new_folder": "Ny mapp",
+    "explorer_open": "Öppna",
+    "explorer_delete": "Ta bort",
+    "explorer_rename": "Byt namn",
+    "explorer_copy": "Kopiera",
+    "explorer_cut": "Klipp ut",
+    "explorer_paste": "Klistra in",
+    "explorer_empty": "Tom mapp",
+    "explorer_loading": "Laddar...",
+    "explorer_path": "Sökväg",
+    "explorer_items": "objekt",
+    "settings_animations": "Animationer",
+    "settings_animations_on": "På",
+    "settings_animations_off": "Av",
+    "notepad_new": "Ny",
+    "notepad_open": "Öppna",
+    "notepad_save": "Spara",
+    "start_menu_notepad": "Anteckningar",
+    "notepad_saved": "Sparad",
+    "notepad_unsaved": "Osparade ändringar"
+}

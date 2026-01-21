@@ -1,0 +1,27 @@
+# --- Logs ---
+logs/
+config/live/PyOS/System/Logs/
+*.log
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- Temporary / runtime files ---
+run.bat
+notepad.txt
+Desktop/
+config/live/PyOS/Temp/
+config/live/PyOS/$Trash.Bin/
+config/live/PyOS/Users/*/Trash/
+config/live/PyOS/Users/*/Downloads/
+
+# --- System shortcuts / links ---
+*.lnk
+
+# --- Build / generated indexes ---
+config/live/PyOS/Meta/fs_index.json
+config/live/PyOS/Meta/users.json
+
+# --- Miscellaneous ---
+IMPORTANT

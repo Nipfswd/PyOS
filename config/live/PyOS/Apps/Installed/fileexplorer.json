@@ -1,0 +1,6 @@
+{
+  "name": "File Explorer",
+  "exec": "PyApps/default/fileexplorer.py",
+  "icon": "fileexplorer.png",
+  "type": "system"
+}
